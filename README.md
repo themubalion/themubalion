@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Mubashshir Ali</h1>
-<h3 align="center">I am a Web Developer, for now atleast. Yes I am a web developer who is learning MERN stack have experience in React, Next JS and have pretty bad JavaScript.</h3>
+<h3 align="center">👋 Hi there! I'm [Your Name], an Android Developer passionate about crafting beautiful, high-performance mobile apps.
+
+🌱 I specialize in Flutter, leveraging its power to build cross-platform applications that run smoothly on both Android and iOS. With a keen eye for design and a love for clean, maintainable code, I focus on delivering seamless user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themubalion&label=Profile%20views&color=0e75b6&style=flat" alt="themubalion" /> </p>
 
